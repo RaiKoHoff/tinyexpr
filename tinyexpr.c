@@ -22,6 +22,9 @@
  * 3. This notice may not be removed or altered from any source distribution.
  */
 
+// TODO: remove warnings
+#pragma warning( disable : 4090 4152 4201 4204 4244 )
+
 /* COMPILE TIME OPTIONS */
 
 /* Exponentiation associativity:
